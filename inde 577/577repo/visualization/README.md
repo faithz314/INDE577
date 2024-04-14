@@ -1,0 +1,1 @@
+#This repository covers exercises from lectures 1-3. Namely, it practices using different data science tools and does a basic classification using perceptron on the unique college dataset. (Perceptron and Single Neuron Model)
