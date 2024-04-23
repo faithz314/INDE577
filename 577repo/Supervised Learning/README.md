@@ -5,4 +5,5 @@ Welcome to our tour of machine learning! We begin with Supervised Learning, whic
 
 ![Supervised Learning](https://cdn.educba.com/academy/wp-content/uploads/2019/08/What-is-supervised-learning.jpg)
 
+[Source](https://www.educba.com/what-is-supervised-learning/)
 
