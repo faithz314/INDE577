@@ -7,3 +7,14 @@ Welcome to our tour of machine learning! We begin with Supervised Learning, whic
 
 [Source](https://www.educba.com/what-is-supervised-learning/)
 
+
+# Types of Supervised Learning
+
+Throughout this repository, we will focus on two main types of machine learning problems. 
+
+First, we will look at classification problems. In classification, we are given a datapoint and we are trying to categorize it. Binary classification problems are the simplest (i.e.: classification between 2 category lables), but we can also do multiclass classification with algorithms as they get more complex.
+
+
+
+
+Next, we wil look at regression problems. In regression, the ouput variable is continuous and within the domain of real numbers. The goal of regression is to learn a function that predicts an ouput given input variables. 
