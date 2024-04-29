@@ -12,9 +12,6 @@ This technique works iteratively until centroids are "stable", and we have effec
 
 ## DBScan 
 
-I think this name is pretty snazzy for a snazzy technique. 
-
-
-
+I think this name is pretty snazzy for a snazzy technique. DBScan is another clustering technique, but it uses the density of points to generate the different clusters. It identifies dense regions as clusters, and low density regions as noise. We will see more of how this work as we work through the notebook.
 
 In this notebook, we will implement k-means clustering on the heart attack dataset once again to try and label who has/has not had a heart attack.
