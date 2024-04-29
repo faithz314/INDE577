@@ -1,5 +1,6 @@
-# K-means Clustering
+# K-means Clustering & DBScan
 
+## K-means
 Hooray! Another $k$ based technique (so you know I'm going to like it :))! 
 
 Similar to k-nearest neighbors, the k of k-means clustering is a user-chosen number, but most of the similarities end there. 
@@ -8,4 +9,12 @@ K-means clustering is a unsupervised learning technique, meaning the data we are
 
 This technique works iteratively until centroids are "stable", and we have effectively pre-processed our data such that supervised learning can be performed on it!
 
-In this notebook, we will implement k-means clustering on the mushrooms dataset to attempt to classify types of mushrooms!
+
+## DBScan 
+
+I think this name is pretty snazzy for a snazzy technique. 
+
+
+
+
+In this notebook, we will implement k-means clustering on the heart attack dataset once again to try and label who has/has not had a heart attack.
