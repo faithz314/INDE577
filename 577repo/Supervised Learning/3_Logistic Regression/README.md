@@ -1,4 +1,4 @@
-Logistic Regression!
+# Logistic Regression!
 
 We use perceptron for binary classification tasks, but in those instances, the data was clearly linearly separable. What if it was the case that the data wasn't linearly separable, but instead had some overlap such that drawing a clear line through the data would be difficult? This is when we use logistic regression.
 
